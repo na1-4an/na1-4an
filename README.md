@@ -14,50 +14,45 @@
 
 # 논문
 
-**[Journal]**  
-One-class Monophily aware Contrastive Learning for Graph Anomaly Detection (Submitted)
+[Journal] **“One-class Monophily aware Contrastive Learning for Graph Anomaly Detection”**. Neurocomputing (IF: 6.5), Submitted. (*First Author*)
 
-**[Journal]**  
-BalGNN: Balancing Decorrelation and Label Predictability for Deep GNNs (Neurocomputing, under review)
+[Journal] 박나은, 황혜수. **“BalGNN: Balancing Decorrelation and Label Predictability for Deep GNNs”**. Neurocomputing (IF: 6.5), Under Review. (*First Author*)
 
-**[Conference]**  
-Balancing Decorrelation and Label Predictability for Deep Graph Representation Learning (IEEE BigData 2025)
+[Conference] 박나은, 황혜수. **“Balancing Decorrelation and Label Predictability for Deep Graph Representation Learning”**. IEEE BIGDATA 2025. (한국정보과학회 우수학술대회 선정/acceptance rate: 18.7%) (*First Author*)
 
-**[Conference]**  
-간선 판별 분리를 이용한 그래프 대조 학습 (한국컴퓨터종합학술대회, 2024)
+[Conference] 박나은, 박영규, 황혜수. **“간선 판별 분리를 이용한 그래프 대조 학습”**. 한국컴퓨터종합학술대회 2024. (*Co-first author*)
 
-**[Conference]**  
-오케스트라 연주에서 딥러닝 기반 악기 식별 (한국컴퓨터종합학술대회, 2024)
+[Conference] 정다현, 박나은, 고재휘, 황혜수. **“오케스트라 연주에서 딥러닝 기반 악기 식별”**. 한국컴퓨터종합학술대회 2024. (*Co-first author*)
 
 ---
 
 # 특허
 
-불확실한 라벨 예측의 균형을 고려한 깊은 그래프 표현 학습 방법 및 시스템 (출원)
+**탈상관과 라벨 예측성의 균형을 고려한 깊은 그래프 표현 학습 방법 및 시스템** (출원)
 
-비지도 그래프 대조 학습 모델 및 방법 (출원)
+**비지도 그래프 대조 학습 모델 및 방법** (출원)
 
 ---
 
 # 프로젝트
 
-**Realeyes — 실시간 딥페이크 영상 탐지 웹사이트** (2024.10 – 2024.12)
+**Realeyes — 실시간 딥페이크 영상 탐지 웹사이트** | 2024.10 – 2024.12
 
-**SQuiz — LLM과 DKT를 활용한 학습 보조 웹사이트** (2024.03 – 2024.06)
+**SQuiz — LLM과 DKT를 활용한 학습 보조 웹사이트** | 2024.03 – 2024.06
 
-**JayKo — 코인 자동 매매 웹사이트** (2022.09 – 2022.12)
+**JayKo — 코인 자동 매매 웹사이트** | 2022.09 – 2022.12
 
 ---
 
 # 수상
 
-제1회 AI 반도체 기술인재 선발대회 우수상 (한국정보통신진흥협회장상)
+제 1회 AI 반도체 기술인재 선발대회, 우수상(한국정보통신진흥협회장상), 과학기술정보통신부 | 2024.12
 
-학생 교육혁신 사례 영상 공모전 대상 (서울시립대학교)
+학생 교육혁신 사례영상 공모전, 대상(총장상), 서울시립대학교 | 2024.12
 
-컴퓨터과학부 학술제 최우수상 (서울시립대학교)
+컴퓨터과학부 학술대회 셈틀제, 3위(학과장상), 서울시립대학교 컴퓨터과학부 | 2022.12
 
-미래산업 특화 학생 설계 교육 학술공동체 우수팀 선정
+미래신산업 특화 학생 설계 교육 학습공동체(2차), 우수팀 선정, 서울시립대학교 공학혁신센터 | 2022.01
 
 ---
 
