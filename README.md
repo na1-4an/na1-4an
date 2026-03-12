@@ -1,18 +1,18 @@
-# 박나은
+# 박나은 (Naeun Park)
 👩🏻‍💻 ML Engineer / Data Scientist  
 📧 parkne0114@uos.ac.kr  
 🔗 [Google Scholar](https://scholar.google.com/citations?user=D-3tF1YAAAAJ&hl=ko) | [GitHub](https://github.com/na1-4an) | [Blog](https://na1-4an.tistory.com/)
 
 ---
 
-# 학력
+### 학력
 
 **서울시립대학교 컴퓨터과학과 석사** (2025.03 – 2026.08 예정)  
 **서울시립대학교 컴퓨터과학과 학사** (2021.03 – 2025.02)
 
 ---
 
-## 논문
+### 논문
 
 [Journal] **“One-class Monophily aware Contrastive Learning for Graph Anomaly Detection”**. Neurocomputing (IF: 6.5), Submitted. (*First Author*)
 
@@ -26,7 +26,7 @@
 
 ---
 
-## 특허
+### 특허
 
 **탈상관과 라벨 예측성의 균형을 고려한 깊은 그래프 표현 학습 방법 및 시스템** (출원)
 
@@ -34,7 +34,7 @@
 
 ---
 
-## 프로젝트
+### 프로젝트
 
 **Realeyes — 실시간 딥페이크 영상 탐지 웹사이트** | 2024.10 – 2024.12
 
@@ -44,7 +44,7 @@
 
 ---
 
-## 수상
+### 수상
 
 제 1회 AI 반도체 기술인재 선발대회, 우수상(한국정보통신진흥협회장상), 과학기술정보통신부 | 2024.12
 
@@ -56,7 +56,7 @@
 
 ---
 
-## 자격증
+### 자격증
 
 TOEIC Speaking AL (160)
 
@@ -66,9 +66,9 @@ TOEIC Speaking AL (160)
 
 ---
 
-## Tech Stack
+### Tech Stack
 
-### Strong
+**Strong**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -76,7 +76,7 @@ TOEIC Speaking AL (160)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
 
-### Experience
+**Experience**
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
 ![Java](https://img.shields.io/badge/Java-ed8b00?style=for-the-badge)
@@ -85,6 +85,6 @@ TOEIC Speaking AL (160)
 
 ---
 
-## ETC
+### ETC
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=parkne0114)](https://solved.ac/profile/parkne0114)
