@@ -92,4 +92,4 @@ TOEIC Speaking AL (160)
 
 # ETC
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qkrehguso9)](https://solved.ac/qkrehguso9)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=parkne0114)](https://solved.ac/profile/parkne0114)
