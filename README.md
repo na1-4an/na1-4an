@@ -1,5 +1,5 @@
 # 박나은
-
+👩🏻‍💻 ML Engineer / Data Scientist
 📧 parkne0114@uos.ac.kr  
 🔗 [Google Scholar](https://scholar.google.com/citations?user=D-3tF1YAAAAJ&hl=ko) | [GitHub](https://github.com/na1-4an) | [Blog](https://na1-4an.tistory.com/)
 
