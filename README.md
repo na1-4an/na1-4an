@@ -16,13 +16,13 @@
 
 [Journal] **“One-class Monophily aware Contrastive Learning for Graph Anomaly Detection”**. Neurocomputing (IF: 6.5), Submitted. (*First Author*)
 
-[Journal] 박나은, 황혜수. **“BalGNN: Balancing Decorrelation and Label Predictability for Deep GNNs”**. Neurocomputing (IF: 6.5), Under Review. (*First Author*)
+[Journal] **“BalGNN: Balancing Decorrelation and Label Predictability for Deep GNNs”**. Neurocomputing (IF: 6.5), Under Review. (*First Author*)
 
-[Conference] 박나은, 황혜수. **“Balancing Decorrelation and Label Predictability for Deep Graph Representation Learning”**. IEEE BIGDATA 2025. (한국정보과학회 우수학술대회 선정/acceptance rate: 18.7%) (*First Author*)
+[Conference] **“Balancing Decorrelation and Label Predictability for Deep Graph Representation Learning”**. IEEE BIGDATA 2025. (한국정보과학회 우수학술대회 선정/acceptance rate: 18.7%) (*First Author*)
 
-[Conference] 박나은, 박영규, 황혜수. **“간선 판별 분리를 이용한 그래프 대조 학습”**. 한국컴퓨터종합학술대회 2024. (*Co-first author*)
+[Conference] **“간선 판별 분리를 이용한 그래프 대조 학습”**. 한국컴퓨터종합학술대회 2024. (*Co-first author*)
 
-[Conference] 정다현, 박나은, 고재휘, 황혜수. **“오케스트라 연주에서 딥러닝 기반 악기 식별”**. 한국컴퓨터종합학술대회 2024. (*Co-first author*)
+[Conference] **“오케스트라 연주에서 딥러닝 기반 악기 식별”**. 한국컴퓨터종합학술대회 2024. (*Co-first author*)
 
 ---
 
