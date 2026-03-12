@@ -14,7 +14,7 @@
 
 ### 논문
 
-[Journal] **“One-class Monophily aware Contrastive Learning for Graph Anomaly Detection”**. Neurocomputing (IF: 6.5), Submitted. (*First Author*)
+[Journal] **“One-class Monophily aware Contrastive Learning for Graph Anomaly Detection”**. Submitted. (*First Author*)
 
 [Journal] **“BalGNN: Balancing Decorrelation and Label Predictability for Deep GNNs”**. Neurocomputing (IF: 6.5), Under Review. (*First Author*)
 
