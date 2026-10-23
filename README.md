@@ -14,9 +14,11 @@
 
 ### 논문
 
+[Conference] **“DCB-CDR: Dual Diffusion with Coarse-to-Fine Guidance and Bias-aware Integration for CDR”**. Submitted. (*First Author*)
+
 [Journal] **“One-class Monophily aware Contrastive Learning for Graph Anomaly Detection”**. Neurocomputing (IF: 6.5), Under Review. (*First Author*)
 
-[Journal] **“BalGNN: Balancing Decorrelation and Label Predictability for Deep GNNs”**. Neurocomputing (IF: 6.5), Under Review. (*First Author*)
+[Journal] **“BalGNN: Balancing Decorrelation and Label Predictability for Deep GNNs”**. IEEE Access (IF: 4.2), Under Review. (*First Author*)
 
 [Conference] **“Balancing Decorrelation and Label Predictability for Deep Graph Representation Learning”**. IEEE BIGDATA 2025. (한국정보과학회 우수학술대회 선정/acceptance rate: 18.7%) (*First Author*)
 
@@ -59,6 +61,8 @@
 ### 자격증
 
 TOEIC Speaking AL (160)
+
+SQL 개발자
 
 빅데이터분석기사
 
